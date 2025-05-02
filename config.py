@@ -1,7 +1,7 @@
 """Configuration settings for the email spoof detection system"""
 
 # VirusTotal API Configuration
-VIRUSTOTAL_API_KEY = 'f1869f9d281b03aa5f8d6bfeea5ecc7f8d2b1e1ab7214a4ac96c4850abca8a24'
+VIRUSTOTAL_API_KEY = 'Your_API'
 VIRUSTOTAL_URL_REPORT_ENDPOINT = 'https://www.virustotal.com/vtapi/v2/url/report'
 VIRUSTOTAL_FILE_REPORT_ENDPOINT = 'https://www.virustotal.com/vtapi/v2/file/report'
 
